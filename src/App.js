@@ -36,7 +36,8 @@ class App extends Component {
     return (
       <div className="App">
         <div>
-          <img src ="storksjob.jpeg"/>
+          <h1>I WILL STORK YOUR MOM </h1>
+          <img src ="https://c8.alamy.com/comp/T65PBB/cartoon-character-funny-stork-T65PBB.jpg"/>
         </div>
       </div>
     )
